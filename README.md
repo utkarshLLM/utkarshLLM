@@ -1,4 +1,4 @@
-# I'm Utkarsh, glad you made it here! 👋
+# I'm Utkarsh, glad you made it here! 🍓 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/utkarsh-prajapati/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:utkarshprajapati2709@gmail.com)
