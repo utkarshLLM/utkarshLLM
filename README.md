@@ -28,6 +28,7 @@ A data-driven approach to designing and backtesting market-neutral, long-short e
 | <div align="center"><img src="https://github.com/utkarshLLM/utkarshLLM/blob/main/iitd_logo.avif" width="75" height="75"></div> | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
 
 
+---
 
 ## 🌱 What I'm Currently Working On
 
