@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about AI, Optimiza
 LLM ChatBot Advisor for Optimized Portfolios diversified for ESG Investing
 
 ### [Linear-Optimization-for-Nutrition](https://github.com/utkarshLLM/Linear-Optimization-for-Nutrition)
-Linear Optimization model for maximizing nutritional efficiency in a meal; made through web-scraped data of 1000+ food items and their costs.
+Linear Optimization model for maximizing nutritional efficiency in a meal, made through web-scraped data of 1000+ food items & their costs.
 
 ### [Market-Neutral-Strategies-Data-Driven](https://github.com/utkarshLLM/Market-Neutral-Strategies-Data-Driven)
 A data-driven approach to designing and backtesting market-neutral, long-short equity strategies for mid-cap portfolio management.
