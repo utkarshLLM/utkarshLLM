@@ -18,12 +18,14 @@ Linear Optimization model for maximizing nutritional efficiency in a meal; made 
 ### [Market-Neutral-Strategies-Data-Driven](https://github.com/utkarshLLM/Market-Neutral-Strategies-Data-Driven)
 A data-driven approach to designing and backtesting market-neutral, long-short equity strategies for mid-cap portfolio management.
 
+---
+
 ## 🎓 Education
 
 | **University Logo** | **University Name** | **Major** |
 |----------------------|----------------------|-----------------|
-| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/CU_logo.jpeg) | [Columbia University]([https://www.university1.edu](https://www.columbia.edu/)) | Master of Science in Operations Research |
-| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/iitd_logo.png) | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
+| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/CU_logo.jpg) | [Columbia University](https://www.columbia.edu/) | Master of Science in Operations Research |
+| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/iitd_logo.avif) | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
 
 
 
