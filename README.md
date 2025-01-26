@@ -35,15 +35,6 @@ A data-driven approach to designing and backtesting market-neutral, long-short e
 
 ---
 
-## 💬 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me via:
-
-- **Email**: [your.email@example.com](mailto:utkarshprajapati2709@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/utkarsh-prajapati/))
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
