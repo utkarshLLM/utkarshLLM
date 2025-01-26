@@ -49,9 +49,10 @@ A data-driven approach to designing and backtesting market-neutral, long-short e
 
 ## 🎓 Education
 
+| **University Logo** | **University Name** | **Major** |
 |----------------------|----------------------|-----------------|
 | ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/CU_logo.jpeg) | [Columbia University]([https://www.university1.edu](https://www.columbia.edu/)) | Master of Science in Operations Research |
-| ![University Logo]([https://via.placeholder.com/50](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-edfui&psig=AOvVaw0kTSKiYaKy6-ec46hrgTrr&ust=1737961907745000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiP4uXqkosDFQAAAAAdAAAAABAE)) | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
+| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/iitd_logo.png) | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
 
 
 ## 🌱 What I'm Currently Working On
