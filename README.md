@@ -7,6 +7,41 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about AI, Optimiza
 
 ---
 
+## 🚀 Featured Projects
+
+### [ESG-Investing-OptimalPortfolioGenerating-Chatbot](https://github.com/utkarshLLM/ESG-Investing-OptimalPortfolioGenerating-Chatbot)
+LLM ChatBot Advisor for Optimized Portfolios diversified for ESG Investing
+
+### [Linear-Optimization-for-Nutrition](https://github.com/utkarshLLM/Linear-Optimization-for-Nutrition)
+Linear Optimization model for maximizing nutritional efficiency in a meal; made through web-scraped data of 1000+ food items and their costs.
+
+### [Market-Neutral-Strategies-Data-Driven](https://github.com/utkarshLLM/Market-Neutral-Strategies-Data-Driven)
+A data-driven approach to designing and backtesting market-neutral, long-short equity strategies for mid-cap portfolio management.
+
+## 🎓 Education
+
+| **University Logo** | **University Name** | **Major** |
+|----------------------|----------------------|-----------------|
+| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/CU_logo.jpeg) | [Columbia University]([https://www.university1.edu](https://www.columbia.edu/)) | Master of Science in Operations Research |
+| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/iitd_logo.png) | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
+
+
+
+## 🌱 What I'm Currently Working On
+
+- Leveraging the incredible power of GenAI to create meaningful impact in the world
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me via:
+
+- **Email**: [your.email@example.com](mailto:utkarshprajapati2709@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/utkarsh-prajapati/))
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -33,40 +68,6 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about AI, Optimiza
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [ESG-Investing-OptimalPortfolioGenerating-Chatbot](https://github.com/utkarshLLM/ESG-Investing-OptimalPortfolioGenerating-Chatbot)
-LLM ChatBot Advisor for Optimized Portfolios diversified for ESG Investing
-
-### [Linear-Optimization-for-Nutrition](https://github.com/utkarshLLM/Linear-Optimization-for-Nutrition)
-Linear Optimization model for maximizing nutritional efficiency in a meal; made through web-scraped data of 1000+ food items and their costs.
-
-### [Market-Neutral-Strategies-Data-Driven](https://github.com/utkarshLLM/Market-Neutral-Strategies-Data-Driven)
-A data-driven approach to designing and backtesting market-neutral, long-short equity strategies for mid-cap portfolio management.
-
-## 🎓 Education
-
-| **University Logo** | **University Name** | **Major** |
-|----------------------|----------------------|-----------------|
-| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/CU_logo.jpeg) | [Columbia University]([https://www.university1.edu](https://www.columbia.edu/)) | Master of Science in Operations Research |
-| ![University Logo](https://github.com/utkarshLLM/utkarshLLM/blob/main/iitd_logo.png) | [IIT Delhi](https://home.iitd.ac.in/) | Bachelor's of Technology in Industrial & Production Engineering |
-
-
-## 🌱 What I'm Currently Working On
-
-- Leveraging the incredible power of GenAI to create meaningful impact in the world
-
----
-
-## 💬 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me via:
-
-- **Email**: [your.email@example.com](mailto:utkarshprajapati2709@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/utkarsh-prajapati/))
 
 ---
 
